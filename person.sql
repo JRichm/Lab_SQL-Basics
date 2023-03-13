@@ -12,8 +12,8 @@ CREATE TABLE person (
 -- PROBLEM TWO          Add 5 different people into the person database. Remember to not include the person_id because it should auto-increment.
 INSERT INTO person (name, age, height, city, favorite_color)
 VALUES ('Bryson', 24, 178, 'Simi Valley', 'Blue'),
-('Jake', 28, 186, 'Carson', 'Orange'),
-('Allison', 21, 168, 'Denver', 'Green'),
+('Jarron', 28, 186, 'Carson', 'Orange'),
+('Hailey', 21, 168, 'Denver', 'Green'),
 ('Allan', 43, 175, 'Los Angeles', 'Light Blue'),
 ('Doug', 33, 180, 'Thousand Oaks', 'Yellow');
 
