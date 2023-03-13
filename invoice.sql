@@ -41,5 +41,8 @@ WHERE customer_id = 2;
 
 
 -- PROBLEM TEN          Delete the invoice with an invoice_id of 1.
+DELETE FROM invoice_line
+WHERE invoice_id = 1;
+
 DELETE FROM invoice
 WHERE invoice_id = 1;
